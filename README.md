@@ -1,1 +1,0 @@
-# northstar-databases-analytics
